@@ -20,16 +20,16 @@ Lab1
 
 Lab2
 :------------------------------:
-![Screenshot](1.png)
+![Screenshot](2.png)
 
 Lab3
 :------------------------------:
-![Screenshot](1.png)
+![Screenshot](3png)
 
 Lab4
 :------------------------------:
-![Screenshot](1.png)
+![Screenshot](4.png)
 
 Lab5
 :------------------------------:
-![Screenshot](1.png)
+![Screenshot](5.png)
