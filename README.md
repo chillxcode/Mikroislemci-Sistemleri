@@ -1,4 +1,4 @@
-#Mikroişlemci Sistemleri
+# Mikroişlemci Sistemleri
 Mikroişlemci Sistemleri dersinin lab soruları ve cevapları bulunmaktadır. İşe yaraması dileğiyle :)
 
 1. Lab:
